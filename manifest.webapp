@@ -1,0 +1,23 @@
+{
+  "name": "Flashlight",
+  "description": "A very simple flashlight",
+  "type": "certified",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Fernando Rodríguez Sela",
+    "url": "https://github.com/frsela/flashlight_webapp"
+  },
+  "permissions": {
+    "power":{}
+  },
+  "locales": {
+    "en-US": {
+      "name": "Flashlight",
+      "description": "A very simple flashlight"
+    },
+    "es-ES": {
+      "name": "Linterna",
+      "description": "Una simple linterna"
+    }
+  }
+}
